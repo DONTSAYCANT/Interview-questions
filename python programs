@@ -5,7 +5,7 @@ Question 1:
 collect a list of numbers from user
 eg. [3,4,2,10,12,15,-8]
 
-Fin sum of elements without using in built functions
+Find sum of even numbers in the list
 
 
 
@@ -66,9 +66,11 @@ Identify the string with maximum length and minmum length.
 
 Question 8:
 
+collect one sentence from user with space as separator
+
 "god bless you india for next year"
 
-i) "god Bless you India for Next year" alternative caps
+i) "god Bless you India for Next year" alternative wrods caps in first letter
 
 
 Question 9:
