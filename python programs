@@ -52,11 +52,16 @@ Print the pattern
 
 Input: 5
 
-5 4 3 2 1
-4 3 2 1
-3 2 1
-2 1
-1
+A
+B C
+D E F
+G H I J 
+K L M N O
+
+Input: 3
+A
+B C
+D E F
 
 Question 7:
 
