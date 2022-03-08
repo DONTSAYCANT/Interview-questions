@@ -2,11 +2,11 @@
 
 Test Case 1:
 Input: hello welcome to python world
-Output: dlrow nohtyp ot emoclew olleh
+Output: dlrow5 nohtyp6 ot2 emoclew7 olleh5
 
 Test case 2:
 Input: python interpreter
-Output: reterpretni nohtyp
+Output: reterpretni11 nohtyp6
 
 2. Collect an integer from the user, convert it into binary number without using an inbuilt function (Don't use inbuilt function bin)
 
